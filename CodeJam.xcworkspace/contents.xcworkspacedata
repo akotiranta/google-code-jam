@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GreatWallFast.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GreatWallSlow.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Osmos.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pogo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReverseWords.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StoreCredit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FallingDiamonds.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GarbledEmail.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Consonants.xcodeproj">
+   </FileRef>
+</Workspace>
